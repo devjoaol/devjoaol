@@ -27,7 +27,7 @@ I’m open to opportunities, mentorship, and networking with like-minded develop
 
 ### IDEs and Tools useds/using
 <hr>
-
+<div style="display: inline_block"> <br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height="50px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="50px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="50px"/>
@@ -35,6 +35,7 @@ I’m open to opportunities, mentorship, and networking with like-minded develop
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" height="50px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" height="50px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" height="50px"/>
+</div>
           
           
           
